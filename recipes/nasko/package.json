@@ -1,0 +1,9 @@
+{
+  "id": "nasko",
+  "name": "Nasko",
+  "version": "1.0.2",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "http://ds920plus.local:5000"
+  }
+}
